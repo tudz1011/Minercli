@@ -10,7 +10,8 @@
 
 ## 🚀 Sử dụng
 ```bash
-npm install benchmark ini js-sha1 jshashes node-fetch promise-socket rusha sha1
+npm i
+rusha sha1
 node cli.js
 ```
 
