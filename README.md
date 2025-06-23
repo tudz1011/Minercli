@@ -11,7 +11,6 @@
 ## 🚀 Sử dụng
 ```bash
 npm i
-rusha sha1
 node cli.js
 ```
 
